@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1491907600928
+Build-Jdk: 1.8.0_111
+Built-By: dinuksha
+Bundle-Description: Dynamic Client Registration Management Bundle
+Bundle-DocURL: http://www.wso2.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.identity.oauth.dcrm
+Bundle-SymbolicName: org.wso2.carbon.identity.oauth.dcrm
+Bundle-Vendor: WSO2
+Bundle-Version: 5.3.4
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.json.simple,org.wso2.carbon.identity.application.com
+ mon;version="[5.0.0,6.0.0)",org.wso2.carbon.utils.multitenancy;version=
+ "[4.4.0,5.0.0)",org.apache.commons.lang;version="[2.6.0,3.0.0)",org.wso
+ 2.carbon.registry.api;version="[1.0.1,2.0.0)",javax.servlet.http;versio
+ n="[2.6.0,3.0.0)",org.osgi.service.component;version="[1.2.0,2.0.0)",or
+ g.wso2.carbon.user.api;version="[1.0.1,2.0.0)",org.osgi.framework;versi
+ on="[1.7.0,2.0.0)",org.wso2.carbon.identity.base;version="[5.0.0,6.0.0)
+ ",org.wso2.carbon.identity.application.common.model;version="[5.0.0,6.0
+ .0)",org.apache.commons.logging;version="[1.2,2.0)",org.json.simple.par
+ ser,org.wso2.carbon.identity.application.mgt;version="[5.0.0,6.0.0)",or
+ g.wso2.carbon.context;version="[4.4.0,5.0.0)",org.json;version="[3.0,4)
+ "
+SCM-Revision: e532b036fec13d52b6137b3d8b0c20938e6ac897
+Tool: Bnd-2.1.0.20130426-122213
